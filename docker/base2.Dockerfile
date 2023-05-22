@@ -1,0 +1,1 @@
+FROM jenkins/agent:jdk11-windowsservercore-ltsc2019
